@@ -1,0 +1,24 @@
+words = {[
+  'Arsenic',
+  'Bromine',
+  'Cadmium',
+  'Dysprosium',
+  'Erbium',
+  'Fluorine',
+  'Gold',
+  'Helium',
+  'Iridium',
+  'Krypton',
+  'Lead',
+  'Mercury',
+  'Neon',
+  'Oxygen',
+  'Promethium',
+  'Rubidium',
+  'Silver',
+  'Thoruim',
+  'Ununbium',
+  'Ytrium',
+  'Zirconium'
+]}
+  
